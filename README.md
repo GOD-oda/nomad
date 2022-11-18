@@ -1,1 +1,21 @@
-
+- 渋谷駅
+  - [5 CROSSTIES COFFEE](https://www.gransta.jp/mall/gransta_tokyo/5crosstiescoffee/)
+  - [TULLY’S COFFEE スクランブルスクエア](https://www.shibuya-scramble-square.com/shops_restaurants/shop_93.html)
+- 東京駅
+  - [the 3rd Burger 八重洲地下街店](https://www.the3rdburger.com/23ku/the-3rd-burger-%E5%85%AB%E9%87%8D%E6%B4%B2%E5%9C%B0%E4%B8%8B%E8%A1%97%E5%BA%97)
+- 新宿駅
+  - [Caffice](http://caffice.jp/)
+- 銀座駅
+  - [CIRCLES 銀座店](https://store.starbucks.co.jp/detail-1879/)
+- 高田馬場駅
+  - [10°CAFE](https://judecafe.com/)
+- 溜池山王駅
+  - [ドトールコーヒーショップ 赤坂１丁目店](https://shop.doutor.co.jp/map/1011275)
+- 上野駅
+  - [BLUE LEAF CAFE 上野](https://blueleafcafe.jp/detail-ueno.html)
+- 高輪ゲートウェイ駅
+  - [スターバックス　高輪ゲートウェイ駅店](https://store.starbucks.co.jp/detail-1861/)
+- 新橋駅
+  - [エクセルシオールカフェ 新橋2丁目店](https://shop.doutor.co.jp/map/5000191)
+- その他
+  - [CODE BASE TOKYO by Voltage新宿](https://twitter.com/CODEBASE_TOKYO)
