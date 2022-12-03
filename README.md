@@ -1,9 +1,16 @@
+# nomad
+
+
+# 駅別一覧
 - 渋谷駅
   - [5 CROSSTIES COFFEE](https://www.gransta.jp/mall/gransta_tokyo/5crosstiescoffee/)
   - [TULLY’S COFFEE スクランブルスクエア](https://www.shibuya-scramble-square.com/shops_restaurants/shop_93.html)
 - 秋葉原駅
   - [Rampart](https://rampart-akiba.jp/)
   - [1/3rd Life](https://www.1-3rdlife.com/)
+  - [フライング・スコッツマン 秋葉原店](https://fscotsman.jp/akihabara)
+- 御徒町駅
+  - [フライング・スコッツマン 御徒町店](https://fscotsman.jp/okachimachi)
 - 東京駅
   - [the 3rd Burger 八重洲地下街店](https://www.the3rdburger.com/23ku/the-3rd-burger-%E5%85%AB%E9%87%8D%E6%B4%B2%E5%9C%B0%E4%B8%8B%E8%A1%97%E5%BA%97)
 - 新宿駅
