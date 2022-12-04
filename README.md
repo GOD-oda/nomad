@@ -27,5 +27,7 @@
   - [スターバックス　高輪ゲートウェイ駅店](https://store.starbucks.co.jp/detail-1861/)
 - 新橋駅
   - [エクセルシオールカフェ 新橋2丁目店](https://shop.doutor.co.jp/map/5000191)
+- 飯田橋駅
+  - [TOKI CAFE （トキカフェ）](https://times-cafe.favy.jp/maps)
 - その他
   - [CODE BASE TOKYO by Voltage新宿](https://twitter.com/CODEBASE_TOKYO)
