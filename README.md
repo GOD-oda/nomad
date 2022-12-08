@@ -1,7 +1,7 @@
 # nomad
 
 
-# 駅別一覧
+## 駅別一覧
 - 渋谷駅
   - [5 CROSSTIES COFFEE](https://www.gransta.jp/mall/gransta_tokyo/5crosstiescoffee/)
   - [TULLY’S COFFEE スクランブルスクエア](https://www.shibuya-scramble-square.com/shops_restaurants/shop_93.html)
@@ -29,5 +29,12 @@
   - [エクセルシオールカフェ 新橋2丁目店](https://shop.doutor.co.jp/map/5000191)
 - 飯田橋駅
   - [TOKI CAFE （トキカフェ）](https://times-cafe.favy.jp/maps)
-- その他
-  - [CODE BASE TOKYO by Voltage新宿](https://twitter.com/CODEBASE_TOKYO)
+
+## 地方
+### 石川県
+- 加賀市
+  - [山代スマートパーク](https://ysp-yamashiro.com/access.html)
+  - [ユトリ珈琲店 加賀温泉駅前店 ](https://tabelog.com/ishikawa/A1702/A170201/17011793/dtlmap/)
+
+## その他
+- [CODE BASE TOKYO by Voltage新宿](https://twitter.com/CODEBASE_TOKYO)
