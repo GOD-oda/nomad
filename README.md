@@ -29,6 +29,8 @@
   - [エクセルシオールカフェ 新橋2丁目店](https://shop.doutor.co.jp/map/5000191)
 - 飯田橋駅
   - [TOKI CAFE （トキカフェ）](https://times-cafe.favy.jp/maps)
+- 目黒駅
+  - [Cafe Renoir 目黒東口駅前店](https://www.ginza-renoir.co.jp/shopsearch/shops/view/13)
 
 ## 地方
 ### 石川県
