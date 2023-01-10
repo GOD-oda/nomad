@@ -38,5 +38,10 @@
   - [山代スマートパーク](https://ysp-yamashiro.com/access.html)
   - [ユトリ珈琲店 加賀温泉駅前店 ](https://tabelog.com/ishikawa/A1702/A170201/17011793/dtlmap/)
 
+## 海外
+### タイ
+#### プロンポン
+- [AIS CD](https://aisdc.ais.co.th/home/)
+
 ## その他
 - [CODE BASE TOKYO by Voltage新宿](https://twitter.com/CODEBASE_TOKYO)
