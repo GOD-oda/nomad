@@ -38,6 +38,10 @@
   - [山代スマートパーク](https://ysp-yamashiro.com/access.html)
   - [ユトリ珈琲店 加賀温泉駅前店 ](https://tabelog.com/ishikawa/A1702/A170201/17011793/dtlmap/)
 
+### 福井県
+- 福井市
+  - [KOSHINO SATELLITE OFFICE（越廼サテライトオフィス）](https://koshino.localinfo.jp/)
+
 ## 海外
 ### タイ
 #### プロンポン
