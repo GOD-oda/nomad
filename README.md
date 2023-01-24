@@ -43,6 +43,7 @@
   - [KOSHINO SATELLITE OFFICE（越廼サテライトオフィス）](https://koshino.localinfo.jp/)
   - [LOCOCO](https://www.greens.co.jp/co-work/hefukui/)
   - [XSTAND](https://xstand.square.site/gaiyou)
+  - [クラフトブリッジ](https://craftbridge.jp/workspace/)
 
 ## 海外
 ### タイ
