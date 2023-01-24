@@ -42,6 +42,7 @@
 - 福井市
   - [KOSHINO SATELLITE OFFICE（越廼サテライトオフィス）](https://koshino.localinfo.jp/)
   - [LOCOCO](https://www.greens.co.jp/co-work/hefukui/)
+  - [XSTAND](https://xstand.square.site/gaiyou)
 
 ## 海外
 ### タイ
