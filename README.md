@@ -45,6 +45,11 @@
   - [XSTAND](https://xstand.square.site/gaiyou)
   - [クラフトブリッジ](https://craftbridge.jp/workspace/)
 
+### 福岡県
+- 福岡市
+  - [The Company 福岡PARCO](https://thecompany.jp/multi-location/parco/)
+  - [The Company DAIMYO](https://thecompany.jp/multi-location/daimyo/)
+
 ## 海外
 ### タイ
 #### プロンポン
