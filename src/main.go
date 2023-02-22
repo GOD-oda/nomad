@@ -21,29 +21,29 @@ type Place struct {
 }
 
 func main() {
-	buf, err := os.ReadFile("./japan.yml")
-	if err != nil {
-		fmt.Println(err)
-		return
-	}
-
-	places := Places{}
-	err = yaml.Unmarshal(buf, &places)
-	if err != nil {
-		fmt.Println(err)
-		return
-	}
-
 	f, err := os.Create("README.md")
 	if err != nil {
 		fmt.Println(err)
 		return
 	}
-
 	var data []byte
 	data = append(data, "# nomad\n\n"...)
+
+	japanPlaces, err := readPlaces("./japan.yml")
+	if err != nil {
+		fmt.Println(err)
+		return
+	}
 	data = append(data, "## Japan\n\n"...)
-	data = makeTable(data, places.Places)
+	data = makeTable(data, japanPlaces.Places)
+
+	worldPlaces, err := readPlaces("./world.yml")
+	if err != nil {
+		fmt.Println(err)
+		return
+	}
+	data = append(data, "\n## World\n\n"...)
+	data = makeTable(data, worldPlaces.Places)
 
 	_, err = f.Write(data)
 	if err != nil {
@@ -57,6 +57,22 @@ func main() {
 	}()
 }
 
+func readPlaces(name string) (Places, error) {
+	places := Places{}
+
+	buf, err := os.ReadFile(name)
+	if err != nil {
+		return places, err
+	}
+
+	if err = yaml.Unmarshal(buf, &places); err != nil {
+		fmt.Println(err)
+		return places, nil
+	}
+
+	return places, nil
+}
+
 func makeTable(data []byte, places []Place) []byte {
 	//headerの作成
 	var t Place
@@ -68,8 +84,8 @@ func makeTable(data []byte, places []Place) []byte {
 		names = append(names, refT.Field(i).Name)
 		hyphen = append(hyphen, "---")
 	}
-	data = makeLine(data, names)
-	data = makeLine(data, hyphen)
+	data = makeTableLine(data, names)
+	data = makeTableLine(data, hyphen)
 
 	// bodyの作成
 	for _, place := range places {
@@ -78,13 +94,13 @@ func makeTable(data []byte, places []Place) []byte {
 			refPlace := reflect.ValueOf(place)
 			fields = append(fields, refPlace.FieldByName(name).String())
 		}
-		data = makeLine(data, fields)
+		data = makeTableLine(data, fields)
 	}
 
 	return data
 }
 
-func makeLine(data []byte, fields []string) []byte {
+func makeTableLine(data []byte, fields []string) []byte {
 	size := len(fields)
 
 	for i := 0; i < size; i++ {

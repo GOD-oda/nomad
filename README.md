@@ -28,3 +28,9 @@
 |福井県| |クラフトブリッジ|https://craftbridge.jp/workspace/|福井市| |
 |福岡県| |The Company 福岡PARCO|https://thecompany.jp/multi-location/parco/|福岡市| |
 |福岡県| |The Company DAIMYO|https://thecompany.jp/multi-location/daimyo/|福岡市| |
+
+## World
+
+|Prefecture|Station|Name|Link|City|Note|
+|---|---|---|---|---|---|
+| | |AIS CD|https://aisdc.ais.co.th/home/|プロンポン| |
