@@ -11,6 +11,7 @@
   - [フライング・スコッツマン 秋葉原店](https://fscotsman.jp/akihabara)
 - 御徒町駅
   - [フライング・スコッツマン 御徒町店](https://fscotsman.jp/okachimachi)
+  - [ueno your](https://www.uenoyour.com/)
 - 東京駅
   - [the 3rd Burger 八重洲地下街店](https://www.the3rdburger.com/23ku/the-3rd-burger-%E5%85%AB%E9%87%8D%E6%B4%B2%E5%9C%B0%E4%B8%8B%E8%A1%97%E5%BA%97)
 - 新宿駅
