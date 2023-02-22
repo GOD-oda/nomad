@@ -3,50 +3,102 @@ package main
 import (
 	"fmt"
 	"gopkg.in/yaml.v3"
-	"log"
+	"os"
+	"reflect"
 )
 
-var data = `
-a: Easy!
-b: 
-  c: 2
-  d: [3,4]
-`
+type Places struct {
+	Places []Place `yaml:"places"`
+}
 
-type T struct {
-	A string
-	B struct {
-		RenamedC int   `yaml:"c"`
-		D        []int `yaml:",flow"`
-	}
+type Place struct {
+	Prefecture string `yaml:"prefecture"`
+	Station    string `yaml:"station"`
+	Name       string `yaml:"name"`
+	Link       string `yaml:"link"`
+	City       string `yaml:"city"`
+	Note       string `yaml:"note"`
 }
 
 func main() {
-	t := T{}
-
-	err := yaml.Unmarshal([]byte(data), &t)
+	buf, err := os.ReadFile("./japan.yml")
 	if err != nil {
-		log.Fatalf("error: %v", err)
+		fmt.Println(err)
+		return
 	}
-	fmt.Printf("--- t:\n%v\n\n", t)
 
-	d, err := yaml.Marshal(&t)
+	places := Places{}
+	err = yaml.Unmarshal(buf, &places)
 	if err != nil {
-		log.Fatalf("error: %v", err)
+		fmt.Println(err)
+		return
 	}
-	fmt.Printf("--- t dump:\n%s\n\n", string(d))
 
-	m := make(map[interface{}]interface{})
-
-	err = yaml.Unmarshal([]byte(data), &m)
+	f, err := os.Create("README.md")
 	if err != nil {
-		log.Fatalf("error: %v", err)
+		fmt.Println(err)
+		return
 	}
-	fmt.Printf("--- m:\n%v\n\n", m)
 
-	d, err = yaml.Marshal(&m)
+	var data []byte
+	data = append(data, "# nomad\n\n"...)
+	data = append(data, "## Japan\n\n"...)
+	data = makeTable(data, places.Places)
+
+	_, err = f.Write(data)
 	if err != nil {
-		log.Fatalf("error: %v", err)
+		fmt.Println(err)
+		return
 	}
-	fmt.Printf("--- m dump:\n%s\n\n", string(d))
+	defer func() {
+		if err := f.Close(); err != nil {
+			fmt.Println(err)
+		}
+	}()
+}
+
+func makeTable(data []byte, places []Place) []byte {
+	//headerの作成
+	var t Place
+	refT := reflect.TypeOf(t)
+
+	var names []string
+	var hyphen []string
+	for i := 0; i < refT.NumField(); i++ {
+		names = append(names, refT.Field(i).Name)
+		hyphen = append(hyphen, "---")
+	}
+	data = makeLine(data, names)
+	data = makeLine(data, hyphen)
+
+	// bodyの作成
+	for _, place := range places {
+		var fields []string
+		for _, name := range names {
+			refPlace := reflect.ValueOf(place)
+			fields = append(fields, refPlace.FieldByName(name).String())
+		}
+		data = makeLine(data, fields)
+	}
+
+	return data
+}
+
+func makeLine(data []byte, fields []string) []byte {
+	size := len(fields)
+
+	for i := 0; i < size; i++ {
+		data = append(data, "|"...)
+
+		value := fields[i]
+		if len(value) > 0 {
+			data = append(data, value...)
+		} else {
+			data = append(data, " "...)
+		}
+
+	}
+	data = append(data, "|\n"...)
+
+	return data
 }
