@@ -29,6 +29,7 @@
 |福岡県| |The Company 福岡PARCO|https://thecompany.jp/multi-location/parco/|福岡市| |
 |福岡県| |The Company DAIMYO|https://thecompany.jp/multi-location/daimyo/|福岡市| |
 |福岡県| |SHARELOUNGE TSUTAYA福岡西新|https://workation-fukuoka.jp/work/1824/|福岡市| |
+|福岡県| |SALT|https://salt.today/|福岡市| |
 
 ## World
 
