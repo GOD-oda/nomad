@@ -31,6 +31,7 @@
 |福岡県| |SHARELOUNGE TSUTAYA福岡西新|https://workation-fukuoka.jp/work/1824/|福岡市| |
 |福岡県| |SALT|https://salt.today/|福岡市| |
 |栃木県| |woodylifelibrary|https://woodylifelibrary.kobori-timber.com/|宇都宮市| |
+|栃木県|JR宇都宮駅|woodylifelibrary|https://www.tobuhotel.co.jp/utsunomiya/31413|宇都宮市|予約は電話かメールで|
 
 ## World
 
