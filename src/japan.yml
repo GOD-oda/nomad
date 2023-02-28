@@ -28,6 +28,10 @@ places:
     name: the 3rd Burger 八重洲地下街店
     link: https://www.the3rdburger.com/23ku/the-3rd-burger-%E5%85%AB%E9%87%8D%E6%B4%B2%E5%9C%B0%E4%B8%8B%E8%A1%97%E5%BA%97
   - prefecture: 東京都
+    station: 御徒町駅
+    name: uenoyour
+    link: https://www.uenoyour.com/
+  - prefecture: 東京都
     station: 新宿駅
     name: Caffice
     link: http://caffice.jp/
@@ -72,6 +76,7 @@ places:
     city: 加賀市
     name: ユトリ珈琲店 加賀温泉駅前店
     link: https://tabelog.com/ishikawa/A1702/A170201/17011793/dtlmap/
+    station: 加賀温泉駅
   - prefecture: 福井県
     city: 福井市
     name: KOSHINO SATELLITE OFFICE（越廼サテライトオフィス）
@@ -110,7 +115,7 @@ places:
     link: https://woodylifelibrary.kobori-timber.com/
   - prefecture: 栃木県
     city: 宇都宮市
-    name: woodylifelibrary
+    name: 宇都宮東武ホテル グランデ
     link: https://www.tobuhotel.co.jp/utsunomiya/31413
     note: 予約は電話かメールで
     station: JR宇都宮駅
