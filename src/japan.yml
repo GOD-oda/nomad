@@ -20,6 +20,11 @@ places:
     name: フライング・スコッツマン 秋葉原店
     link: https://fscotsman.jp/akihabara
   - prefecture: 東京都
+    station: 秋葉原駅
+    name: いいオフィス秋葉原 by Cocts Akihabara
+    link: https://e-office.space/spaces/kanto/tokyo/taito/akihabara-by-cocts
+    note: 電源に限りがある
+  - prefecture: 東京都
     station: 御徒町駅
     name: フライング・スコッツマン 御徒町店
     link: https://fscotsman.jp/okachimachi
