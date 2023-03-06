@@ -23,7 +23,8 @@
 |東京都|飯田橋駅|TOKI CAFE （トキカフェ）|https://times-cafe.favy.jp/maps| | |
 |東京都|目黒駅|Cafe Renoir 目黒東口駅前店|https://www.ginza-renoir.co.jp/shopsearch/shops/view/13| | |
 |石川県| |山代スマートパーク|https://ysp-yamashiro.com/access.html|加賀市| |
-|石川県|加賀温泉駅|ユトリ珈琲店 加賀温泉駅前店|https://tabelog.com/ishikawa/A1702/A170201/17011793/dtlmap/|加賀市| |
+|石川県|JR加賀温泉駅|ユトリ珈琲店 加賀温泉駅前店|https://tabelog.com/ishikawa/A1702/A170201/17011793/dtlmap/|加賀市| |
+|富山県|JR富山駅|ワークブースsakura|https://wb-sakura.com/|富山市|平日ならビジター利用は午後からのみなので注意|
 |福井県| |KOSHINO SATELLITE OFFICE（越廼サテライトオフィス）|https://koshino.localinfo.jp/|福井市| |
 |福井県| |LOCOCO|https://www.greens.co.jp/co-work/hefukui/|福井市| |
 |福井県| |XSTAND|https://xstand.square.site/gaiyou|福井市| |

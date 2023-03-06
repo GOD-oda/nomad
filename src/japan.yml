@@ -81,7 +81,13 @@ places:
     city: 加賀市
     name: ユトリ珈琲店 加賀温泉駅前店
     link: https://tabelog.com/ishikawa/A1702/A170201/17011793/dtlmap/
-    station: 加賀温泉駅
+    station: JR加賀温泉駅
+  - prefecture: 富山県
+    city: 富山市
+    name: ワークブースsakura
+    link: https://wb-sakura.com/
+    station: JR富山駅
+    note: 平日ならビジター利用は午後からのみなので注意
   - prefecture: 福井県
     city: 福井市
     name: KOSHINO SATELLITE OFFICE（越廼サテライトオフィス）
