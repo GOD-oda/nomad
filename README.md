@@ -25,6 +25,7 @@
 |石川県| |山代スマートパーク|https://ysp-yamashiro.com/access.html|加賀市| |
 |石川県|JR加賀温泉駅|ユトリ珈琲店 加賀温泉駅前店|https://tabelog.com/ishikawa/A1702/A170201/17011793/dtlmap/|加賀市| |
 |富山県|JR富山駅|ワークブースsakura|https://wb-sakura.com/|富山市|平日ならビジター利用は午後からのみなので注意|
+|富山県|富山地方鉄道 丸の内駅|hiraku|https://hanamatsu.co.jp/hiraku/|富山市| |
 |福井県| |KOSHINO SATELLITE OFFICE（越廼サテライトオフィス）|https://koshino.localinfo.jp/|福井市| |
 |福井県| |LOCOCO|https://www.greens.co.jp/co-work/hefukui/|福井市| |
 |福井県| |XSTAND|https://xstand.square.site/gaiyou|福井市| |

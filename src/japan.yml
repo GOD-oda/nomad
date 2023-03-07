@@ -88,6 +88,11 @@ places:
     link: https://wb-sakura.com/
     station: JR富山駅
     note: 平日ならビジター利用は午後からのみなので注意
+  - prefecture: 富山県
+    city: 富山市
+    name: hiraku
+    link: https://hanamatsu.co.jp/hiraku/
+    station: 富山地方鉄道 丸の内駅
   - prefecture: 福井県
     city: 福井市
     name: KOSHINO SATELLITE OFFICE（越廼サテライトオフィス）
