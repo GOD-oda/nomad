@@ -36,6 +36,7 @@
 |福岡県| |SALT|https://salt.today/|福岡市| |
 |栃木県| |woodylifelibrary|https://woodylifelibrary.kobori-timber.com/|宇都宮市| |
 |栃木県|JR宇都宮駅|宇都宮東武ホテル グランデ|https://www.tobuhotel.co.jp/utsunomiya/31413|宇都宮市|予約は電話かメールで|
+|京都府|JR宮津駅|クロスワークセンターMIYAZU|https://note.com/cross_miyazu0506/n/n453f95e45c77|宮津市| |
 
 ## World
 
