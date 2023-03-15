@@ -140,8 +140,12 @@ places:
     name: クロスワークセンターMIYAZU
     link: https://note.com/cross_miyazu0506/n/n453f95e45c77
     station: JR宮津駅
-
-
+  - prefecture: 兵庫県
+    city: 姫路市
+    name: Office ADOCK（オフィスエードック）
+    link: https://office-adock.jp/service/
+    station: JR姫路駅
+    note: テレフォンブースが1つとオンラインMTGがある場合は不向きかも
 
 
 
