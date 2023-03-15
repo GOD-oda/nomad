@@ -3,149 +3,184 @@ places:
     station: 渋谷駅
     name: 5 CROSSTIES COFFEE
     link: https://www.gransta.jp/mall/gransta_tokyo/5crosstiescoffee/
+    type: カフェ
   - prefecture: 東京都
     station: 渋谷駅
     name: TULLY’S COFFEE スクランブルスクエア
     link: https://www.shibuya-scramble-square.com/shops_restaurants/shop_93.html
+    type: カフェ
   - prefecture: 東京都
     station: 秋葉原駅
     name: Rampart
     link: https://rampart-akiba.jp/
+    type: コワーキングスペース
   - prefecture: 東京都
     station: 秋葉原駅
     name: 1/3rd Life
     link: https://www.1-3rdlife.com/
+    type: コワーキングスペース
   - prefecture: 東京都
     station: 秋葉原駅
     name: フライング・スコッツマン 秋葉原店
     link: https://fscotsman.jp/akihabara
+    type: カフェ
   - prefecture: 東京都
     station: 秋葉原駅
     name: いいオフィス秋葉原 by Cocts Akihabara
     link: https://e-office.space/spaces/kanto/tokyo/taito/akihabara-by-cocts
     note: 電源に限りがある
+    type: コワーキングスペース
   - prefecture: 東京都
     station: 御徒町駅
     name: フライング・スコッツマン 御徒町店
     link: https://fscotsman.jp/okachimachi
+    type: カフェ
   - prefecture: 東京都
     station: 御徒町駅
     name: the 3rd Burger 八重洲地下街店
     link: https://www.the3rdburger.com/23ku/the-3rd-burger-%E5%85%AB%E9%87%8D%E6%B4%B2%E5%9C%B0%E4%B8%8B%E8%A1%97%E5%BA%97
+    type: カフェ
   - prefecture: 東京都
     station: 御徒町駅
     name: uenoyour
     link: https://www.uenoyour.com/
+    note: フリースペースは10席くらい
+    type: コワーキングスペース
   - prefecture: 東京都
     station: 新宿駅
     name: Caffice
     link: http://caffice.jp/
+    type: カフェ
   - prefecture: 東京都
     station: 銀座駅
     name: CIRCLES 銀座店
     link: https://store.starbucks.co.jp/detail-1879/
+    type: カフェ
   - prefecture: 東京都
     station: 高田馬場駅
     name: 10°CAFE
     link: https://judecafe.com/
+    type: カフェ
   - prefecture: 東京都
     station: 溜池山王駅
     name: ドトールコーヒーショップ 赤坂１丁目店
     link: https://shop.doutor.co.jp/map/1011275
+    type: カフェ
   - prefecture: 東京都
     station: 上野駅
     name: BLUE LEAF CAFE 上野
     link: https://blueleafcafe.jp/detail-ueno.html
     note: wifiが弱い
+    type: カフェ
   - prefecture: 東京都
     station: 高輪ゲートウェイ駅
     name: スターバックス　高輪ゲートウェイ駅店
     link: https://store.starbucks.co.jp/detail-1861/
+    type: カフェ
   - prefecture: 東京都
     station: 新橋駅
     name: エクセルシオールカフェ 新橋2丁目店
     link: https://shop.doutor.co.jp/map/5000191
+    type: カフェ
   - prefecture: 東京都
     station: 飯田橋駅
     name: TOKI CAFE （トキカフェ）
-    link: https://times-cafe.favy.jp/maps
+    link: https://www.tokicafe.net/price
+    type: カフェ
   - prefecture: 東京都
     station: 目黒駅
     name: Cafe Renoir 目黒東口駅前店
     link: https://www.ginza-renoir.co.jp/shopsearch/shops/view/13
+    type: カフェ
   - prefecture: 石川県
     city: 加賀市
     name: 山代スマートパーク
     link: https://ysp-yamashiro.com/access.html
+    type: カフェ
   - prefecture: 石川県
     city: 加賀市
     name: ユトリ珈琲店 加賀温泉駅前店
     link: https://tabelog.com/ishikawa/A1702/A170201/17011793/dtlmap/
     station: JR加賀温泉駅
+    type: カフェ
   - prefecture: 富山県
     city: 富山市
     name: ワークブースsakura
     link: https://wb-sakura.com/
     station: JR富山駅
     note: 平日ならビジター利用は午後からのみなので注意
+    type: コワーキングスペース
   - prefecture: 富山県
     city: 富山市
     name: hiraku
     link: https://hanamatsu.co.jp/hiraku/
     station: 富山地方鉄道 丸の内駅
+    type: コワーキングスペース
   - prefecture: 福井県
     city: 福井市
     name: KOSHINO SATELLITE OFFICE（越廼サテライトオフィス）
     link: https://koshino.localinfo.jp/
+    type: コワーキングスペース
   - prefecture: 福井県
     city: 福井市
     name: LOCOCO
     link: https://www.greens.co.jp/co-work/hefukui/
+    type: コワーキングスペース
   - prefecture: 福井県
     city: 福井市
     name: XSTAND
     link: https://xstand.square.site/gaiyou
+    type: コワーキングスペース
   - prefecture: 福井県
     city: 福井市
     name: クラフトブリッジ
     link: https://craftbridge.jp/workspace/
+    type: コワーキングスペース
   - prefecture: 福岡県
     city: 福岡市
     name: The Company 福岡PARCO
     link: https://thecompany.jp/multi-location/parco/
+    type: コワーキングスペース
   - prefecture: 福岡県
     city: 福岡市
     name: The Company DAIMYO
     link: https://thecompany.jp/multi-location/daimyo/
+    type: コワーキングスペース
   - prefecture: 福岡県
     city: 福岡市
     name: SHARELOUNGE TSUTAYA福岡西新
     link: https://workation-fukuoka.jp/work/1824/
+    type: コワーキングスペース
   - prefecture: 福岡県
     city: 福岡市
     name: SALT
     link: https://salt.today/
+    type: コワーキングスペース
   - prefecture: 栃木県
     city: 宇都宮市
     name: woodylifelibrary
     link: https://woodylifelibrary.kobori-timber.com/
+    type: コワーキングスペース
   - prefecture: 栃木県
     city: 宇都宮市
     name: 宇都宮東武ホテル グランデ
     link: https://www.tobuhotel.co.jp/utsunomiya/31413
     note: 予約は電話かメールで
     station: JR宇都宮駅
+    type: コワーキングスペース
   - prefecture: 京都府
     city: 宮津市
     name: クロスワークセンターMIYAZU
     link: https://note.com/cross_miyazu0506/n/n453f95e45c77
     station: JR宮津駅
+    type: コワーキングスペース
   - prefecture: 兵庫県
     city: 姫路市
     name: Office ADOCK（オフィスエードック）
     link: https://office-adock.jp/service/
     station: JR姫路駅
     note: テレフォンブースが1つとオンラインMTGがある場合は不向きかも
+    type: コワーキングスペース
 
 
 

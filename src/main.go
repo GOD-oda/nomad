@@ -18,6 +18,7 @@ type Place struct {
 	Link       string `yaml:"link"`
 	City       string `yaml:"city"`
 	Note       string `yaml:"note"`
+	Type       string `yaml:"type"`
 }
 
 func main() {
