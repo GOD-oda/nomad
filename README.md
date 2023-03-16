@@ -38,6 +38,7 @@
 |栃木県|JR宇都宮駅|宇都宮東武ホテル グランデ|https://www.tobuhotel.co.jp/utsunomiya/31413|宇都宮市|予約は電話かメールで|コワーキングスペース|
 |京都府|JR宮津駅|クロスワークセンターMIYAZU|https://note.com/cross_miyazu0506/n/n453f95e45c77|宮津市| |コワーキングスペース|
 |兵庫県|JR姫路駅|Office ADOCK（オフィスエードック）|https://office-adock.jp/service/|姫路市|テレフォンブースが1つとオンラインMTGがある場合は不向きかも|コワーキングスペース|
+|岡山県|JR児島駅|Co-Creation倉敷児島|https://worx-kurashiki.studio.site/|倉敷市|営業時間が9-17|コワーキングスペース|
 
 ## World
 

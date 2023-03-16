@@ -181,6 +181,13 @@ places:
     station: JR姫路駅
     note: テレフォンブースが1つとオンラインMTGがある場合は不向きかも
     type: コワーキングスペース
+  - prefecture: 岡山県
+    city: 倉敷市
+    name: Co-Creation倉敷児島
+    link: https://worx-kurashiki.studio.site/
+    station: JR児島駅
+    note: 営業時間が9-17
+    type: コワーキングスペース
 
 
 
