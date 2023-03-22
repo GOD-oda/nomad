@@ -194,7 +194,12 @@ places:
     link: https://www.komeda.co.jp/shop/detail.html?id=954
     station: 伊予鉄道大街道駅
     type: カフェ
-
+  - prefecture: 愛媛県
+    city: 松山市
+    name: COMOL
+    link: https://comol-chifune.com/
+    station: 伊予鉄松山市駅
+    type: コワーキングスペース
 
 
 

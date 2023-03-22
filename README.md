@@ -40,6 +40,7 @@
 |兵庫県|JR姫路駅|Office ADOCK（オフィスエードック）|https://office-adock.jp/service/|姫路市|テレフォンブースが1つとオンラインMTGがある場合は不向きかも|コワーキングスペース|
 |岡山県|JR児島駅|Co-Creation倉敷児島|https://worx-kurashiki.studio.site/|倉敷市|営業時間が9-17|コワーキングスペース|
 |愛媛県|伊予鉄道大街道駅|コメダ珈琲店 松山大街道店|https://www.komeda.co.jp/shop/detail.html?id=954|松山市| |カフェ|
+|愛媛県|伊予鉄松山市駅|COMOL|https://comol-chifune.com/|松山市| |コワーキングスペース|
 
 ## World
 
