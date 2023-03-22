@@ -200,6 +200,12 @@ places:
     link: https://comol-chifune.com/
     station: 伊予鉄松山市駅
     type: コワーキングスペース
+  - prefecture: 千葉県
+    city: 成田市
+    name: GAKUYA
+    link: https://narita.com/gakuya
+    station: JR成田駅
+    type: コワーキングスペース
 
 
 
