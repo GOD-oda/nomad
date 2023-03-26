@@ -206,6 +206,13 @@ places:
     link: https://eniciatakamatsu.coworkers.fun/
     type: コワーキングスペース
     note: オープンスペースでwebミーティングはできないので部屋を借りるしかない
+  - prefecture: 愛媛県
+    city: 高松市
+    name: MJ BOOK CAFE 高松点
+    link: http://www.k-flag.jp/shoplist/mj-book-cafe.html
+    station: ことでん瓦町駅
+    type: カフェ
+    note: レシートにwifiのパスワードがある
   - prefecture: 千葉県
     city: 成田市
     name: GAKUYA
