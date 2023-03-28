@@ -41,8 +41,9 @@
 |岡山県|JR児島駅|Co-Creation倉敷児島|https://worx-kurashiki.studio.site/|倉敷市|営業時間が9-17|コワーキングスペース|
 |愛媛県|伊予鉄道大街道駅|コメダ珈琲店 松山大街道店|https://www.komeda.co.jp/shop/detail.html?id=954|松山市| |カフェ|
 |愛媛県|伊予鉄松山市駅|COMOL|https://comol-chifune.com/|松山市| |コワーキングスペース|
-|愛媛県| |エニシア高松|https://eniciatakamatsu.coworkers.fun/|高松市|オープンスペースでwebミーティングはできないので部屋を借りるしかない|コワーキングスペース|
-|愛媛県|ことでん瓦町駅|MJ BOOK CAFE 高松点|http://www.k-flag.jp/shoplist/mj-book-cafe.html|高松市|レシートにwifiのパスワードがある|カフェ|
+|香川県| |エニシア高松|https://eniciatakamatsu.coworkers.fun/|高松市|オープンスペースでwebミーティングはできないので部屋を借りるしかない|コワーキングスペース|
+|香川県|ことでん瓦町駅|MJ BOOK CAFE 高松点|http://www.k-flag.jp/shoplist/mj-book-cafe.html|高松市|レシートにwifiのパスワードがある|カフェ|
+|香川県|JR高松駅|Setouchi-i-Base|https://setouchiibase.jp/|高松市| |コワーキングスペース|
 |千葉県|JR成田駅|GAKUYA|https://narita.com/gakuya|成田市| |コワーキングスペース|
 
 ## World

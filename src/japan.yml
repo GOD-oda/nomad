@@ -200,19 +200,25 @@ places:
     link: https://comol-chifune.com/
     station: 伊予鉄松山市駅
     type: コワーキングスペース
-  - prefecture: 愛媛県
+  - prefecture: 香川県
     city: 高松市
     name: エニシア高松
     link: https://eniciatakamatsu.coworkers.fun/
     type: コワーキングスペース
     note: オープンスペースでwebミーティングはできないので部屋を借りるしかない
-  - prefecture: 愛媛県
+  - prefecture: 香川県
     city: 高松市
     name: MJ BOOK CAFE 高松点
     link: http://www.k-flag.jp/shoplist/mj-book-cafe.html
     station: ことでん瓦町駅
     type: カフェ
     note: レシートにwifiのパスワードがある
+  - prefecture: 香川県
+    city: 高松市
+    name: Setouchi-i-Base
+    link: https://setouchiibase.jp/
+    station: JR高松駅
+    type: コワーキングスペース
   - prefecture: 千葉県
     city: 成田市
     name: GAKUYA
