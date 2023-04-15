@@ -45,6 +45,7 @@
 |香川県|ことでん瓦町駅|MJ BOOK CAFE 高松点|http://www.k-flag.jp/shoplist/mj-book-cafe.html|高松市|レシートにwifiのパスワードがある|カフェ|
 |香川県|JR高松駅|Setouchi-i-Base|https://setouchiibase.jp/|高松市| |コワーキングスペース|
 |千葉県|JR成田駅|GAKUYA|https://narita.com/gakuya|成田市| |コワーキングスペース|
+|千葉県|JR京葉線幕張豊砂駅|エクセルシオール カフェ|https://makuharishintoshin-aeonmall.com/shop/detail/449|千葉市| |カフェ|
 |大阪府|JR北新地駅|アクセアカフェ梅田店|https://cafe.accea.co.jp/map/umeda.php|大阪市| |コワーキングスペース|
 |愛知県|名鉄名古屋本線東岡崎駅|OTO CLUB|https://www.starts.co.jp/tokai/otoclub/|岡崎市| |コワーキングスペース|
 

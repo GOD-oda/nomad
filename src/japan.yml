@@ -225,6 +225,12 @@ places:
     link: https://narita.com/gakuya
     station: JR成田駅
     type: コワーキングスペース
+  - prefecture: 千葉県
+    city: 千葉市
+    name: エクセルシオール カフェ
+    link: https://makuharishintoshin-aeonmall.com/shop/detail/449
+    station: JR京葉線幕張豊砂駅
+    type: カフェ
   - prefecture: 大阪府
     city: 大阪市
     name: アクセアカフェ梅田店
