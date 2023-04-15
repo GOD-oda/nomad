@@ -225,7 +225,18 @@ places:
     link: https://narita.com/gakuya
     station: JR成田駅
     type: コワーキングスペース
-
+  - prefecture: 大阪府
+    city: 大阪市
+    name: アクセアカフェ梅田店
+    link: https://cafe.accea.co.jp/map/umeda.php
+    station: JR北新地駅
+    type: コワーキングスペース
+  - prefecture: 愛知県
+    city: 岡崎市
+    name: OTO CLUB
+    link: https://www.starts.co.jp/tokai/otoclub/
+    station: 名鉄名古屋本線東岡崎駅
+    type: コワーキングスペース
 
 
 
